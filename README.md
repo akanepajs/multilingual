@@ -30,7 +30,7 @@ If you use this code or data in your research, please cite our paper:
 
 ## Contact
 
-- Arturs Kanepajs - akanepajs@gmail.com
+- Arturs Kanepajs - hello@kanepajs.eu
 - Vladimir Ivanov - volodimir1024@gmail.com
 - Richard Moulange - rjm246@cam.ac.uk
 
